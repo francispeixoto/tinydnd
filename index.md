@@ -1,5 +1,7 @@
 # TinyDnD - It's never too late to be epic
 
+[DM Guide](/dmguide) |  [Beastiary](/beastiary)
+
 ## Context and Objective
 Tabletop roleplaying is an amazing opportunity for its participants to explore the limits of their imagination, whatever their background. Who better to display this ability than children to, with their uninhibited worldview, to participate and improve this process.
 
