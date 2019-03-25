@@ -1,4 +1,4 @@
-# TinyDnD - It's never too late to be epic
+# TinyDnD - It's never too early to be epic
 
 [Dungeon Master's Guide](/tinydnd/dmguide) |  [Beastiary](/tinydnd/beastiary)
 
